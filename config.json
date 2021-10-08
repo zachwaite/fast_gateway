@@ -1,0 +1,10 @@
+{
+  "proxy_mappings": [
+    {
+      "gateway": "/foo",
+      "service": "http://localhost:3000/foo",
+      "method": "POST",
+      "api_key": "zzz"
+    }
+  ]
+}
